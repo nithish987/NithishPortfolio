@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
+      "name": "Youtube clone using React Js and redux",
       "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "url": "https://nithishyoutubeclone.vercel.app/",
+      "description": "Implemented a collapsible Sidebar for easy navigation, dynamic real-time data fetching from the YouTube API for the latest videos, improved app scalability and state management with Redux Toolkit, and added a Shimmer effect for enhanced user experience.",
       "isFork": false,
       "languages": [
         {
@@ -24,10 +24,10 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Netflix-GPT",
+      "createdAt": "2023-08-13T20:41:33Z",
+      "url": "https://nithishnetflixgpt.vercel.app/",
+      "description": "Designed secure Login/SignUp forms with validation, integrated Firebase for authentication, real-time database, and production deployment, applied Tailwind-CSS for visual appeal, optimized state management with Redux Toolkit, centralized hardcoded values in constants, added redirects for proper navigation based on login status, and built a dynamic header with seamless app routing.",
       "isFork": false,
       "languages": [
         {
@@ -39,9 +39,9 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
+      "createdAt": "2023-10-06T16:26:54Z",
       "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "description": "🔥 The Complete CustomizablePortfolio Template which lets you showcase your work and provides each and every detail about you.",
       "isFork": false,
       "languages": [
         {
@@ -90,10 +90,10 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Redux cart",
       "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "url": "https://github.com/nithish987/-redux-cart",
+      "description": "I created a shopping cart project using React and Redux, implementing state management with Redux for handling cart operations efficiently and ensuring a smooth user experience.",
       "isFork": false,
       "languages": [
         {
@@ -104,10 +104,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "Multiple-Choice-Quiz-JavaScript",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://github.com/nithish987/Multiple-Choice-Quiz-JavaScript",
+      "description": "I developed a Multiple-Choice Quiz application using JavaScript, featuring interactive questions",
       "isFork": false,
       "languages": [
         {

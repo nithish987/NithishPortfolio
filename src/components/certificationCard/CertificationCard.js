@@ -16,16 +16,16 @@ class CertificationCard extends Component {
               rel="noopener noreferrer"
             >
               <div className="content-overlay"></div>
-              <div
+              {/* { <div
                 className="cert-header"
                 style={{ backgroundColor: certificate.color_code }}
               >
-                <img
+                { <img
                   className="logo_img"
                   src={require(`../../assets/images/${certificate.logo_path}`)}
                   alt={certificate.alt_name}
-                />
-              </div>
+                /> }
+              </div> } */}
               <div className="content-details fadeIn-top">
                 <h3 className="content-title" style={{ color: theme.body }}>
                   Certificate
